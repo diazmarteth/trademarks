@@ -1,0 +1,66 @@
+{
+  "id" : "https://diazmarteth.github.io/trademarks/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in diazmarteth/trademarks project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4961,
+    "id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/canvas/",
+    "label" : {
+      "none" : [ "StAnthony_trademarks-collection" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 156,
+              "height" : 110
+            }, {
+              "width" : 311,
+              "height" : 220
+            }, {
+              "width" : 621,
+              "height" : 439
+            }, {
+              "width" : 1241,
+              "height" : 877
+            }, {
+              "width" : 2481,
+              "height" : 1754
+            }, {
+              "width" : 4961,
+              "height" : 3508
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4961,
+            "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3508
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4961,
+          "id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3508
+        },
+        "target" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/canvas/"
+      } ]
+    } ],
+    "height" : 3508
+  } ]
+}
