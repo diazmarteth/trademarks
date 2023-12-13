@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifest_3items.json",
+  "@type" : "sc:Manifest",
+  "label" : "Survey of trademarks in St Anthony Basilica in Padua",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Trademarks on timber elements",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Martina Diaz",
+  "sequences" : [ {
+    "@id" : "http://b2f8cade-c1f1-43c7-b711-e7b2532dfa8b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://918a27fc-a507-4d5c-8cdb-566b159e2907",
+      "@type" : "sc:Canvas",
+      "label" : "",
+      "height" : 3508,
+      "width" : 4961,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f381d5d4-d23e-4e8d-8fc7-bdaf24970b7d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 4961
+        },
+        "on" : "http://918a27fc-a507-4d5c-8cdb-566b159e2907"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ce1e310a-fd43-40c3-85c1-58e23dc50d96",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3508,
+      "width" : 2480,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://242e699a-d063-41cb-b0c7-e06343cca078",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 2480
+        },
+        "on" : "http://ce1e310a-fd43-40c3-85c1-58e23dc50d96"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://142cb339-0294-4f42-994a-6ecf073b3d0a",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ef67060a-e707-45ca-8b0a-bcae8afe4496",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony-Relics_01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony-Relics_01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://142cb339-0294-4f42-994a-6ecf073b3d0a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
