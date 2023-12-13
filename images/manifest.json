@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2480,
+    "id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/canvas/",
+    "label" : {
+      "none" : [ "Cadore-Becher_1998" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 78,
+              "height" : 110
+            }, {
+              "width" : 155,
+              "height" : 220
+            }, {
+              "width" : 310,
+              "height" : 439
+            }, {
+              "width" : 620,
+              "height" : 877
+            }, {
+              "width" : 1240,
+              "height" : 1754
+            }, {
+              "width" : 2480,
+              "height" : 3508
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2480,
+            "@id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3508
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2480,
+          "id" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3508
+        },
+        "target" : "https://diazmarteth.github.io/trademarks/images/Cadore-Becher_1998/canvas/"
+      } ]
+    } ],
+    "height" : 3508
+  }, {
     "width" : 6000,
     "id" : "https://diazmarteth.github.io/trademarks/images/StAnthony-Relics_01/canvas/",
     "label" : {
