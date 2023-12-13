@@ -1,0 +1,13 @@
+{
+  "id" : "https://diazmarteth.github.io/trademarks/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in diazmarteth/trademarks project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifest_3items.json",
+    "label" : "Survey of trademarks in St Anthony Basilica in Padua"
+  } ]
+}
