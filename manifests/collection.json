@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifest_3items.json",
     "label" : "Survey of trademarks in St Anthony Basilica in Padua"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifestcopy.json",
+    "label" : "Trademarks in St Anthony Basilica in Padua"
   } ]
 }
