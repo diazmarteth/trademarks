@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "trademark",
+      "@type" : "oa:Tag",
+      "chars" : "trademark"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gei's family trademark",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gei's family trademark</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/147533823",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-19T20:42:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703018571185",
+    "dcterms:modified" : "2023-12-19T20:42:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifestcopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=638,1041,449,187"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M638.37583,1040.5596h224.6697v0h224.6697v93.4255v93.4255h-224.6697h-224.6697v-93.4255z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_01a642c1-5b1b-4f67-b481-c2f6e26e5dfb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://88c734b0-352e-4125-af45-495a7ab32235"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "date",
+      "@type" : "oa:Tag",
+      "chars" : "date"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1865",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1865</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/147533823",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-19T20:43:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703018585952",
+    "dcterms:modified" : "2023-12-19T20:43:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifestcopy.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1056,715,161,80"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1056.13907,715.22185h80.48593v0h80.48593v39.81871v39.81871h-80.48593h-80.48593v-39.81871z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90cd0491-1fed-4cfb-983d-f5f1d0a7aa6c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"5,5\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://88c734b0-352e-4125-af45-495a7ab32235"
+    } ]
+  } ],
+  "@id" : "https://diazmarteth.github.io/trademarks/annotations/91a43ca62ba1edb72faa998895964526.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
