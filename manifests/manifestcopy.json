@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifestcopy.json",
+  "@type" : "sc:Manifest",
+  "label" : "Trademarks in St Anthony Basilica in Padua",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Manifest contains the survey of trademarks in the St Anthony Baisilica in Padua and the discovery of the Gei's family trademark",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Martina Diaz",
+  "sequences" : [ {
+    "@id" : "http://d0a2320e-1c69-45db-ab01-1af18f802113",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://dc80c656-261a-4217-a4f5-5287188cd6e5",
+      "@type" : "sc:Canvas",
+      "label" : "Trademarks survey",
+      "height" : 3508,
+      "width" : 4961,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5c374731-8ed7-4b0f-bc23-9081bd8c7de1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/trademarks/images/StAnthony_trademarks-collection",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 3508,
+          "width" : 4961
+        },
+        "on" : "http://dc80c656-261a-4217-a4f5-5287188cd6e5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a79035a3-f592-4b55-910a-3a01ea31e1fb",
+      "@type" : "sc:Canvas",
+      "label" : "Gei's Familiy trademark",
+      "height" : 4000,
+      "width" : 6000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d5568424-f206-45b6-a666-fac35c1f0113",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony-Relics_01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/StAnthony-Relics_01",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4000,
+          "width" : 6000
+        },
+        "on" : "http://a79035a3-f592-4b55-910a-3a01ea31e1fb"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://88c734b0-352e-4125-af45-495a7ab32235",
+      "@type" : "sc:Canvas",
+      "label" : "Gei's trademarks in the Archive of Belluno",
+      "height" : 2233,
+      "width" : 1717,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9f2ce4bf-b96a-4ed0-8f49-c5ca672f41de",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://diazmarteth.github.io/Presentation-trademarks/images/ASB-Gei_Page_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2233,
+          "width" : 1717
+        },
+        "on" : "http://88c734b0-352e-4125-af45-495a7ab32235"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
