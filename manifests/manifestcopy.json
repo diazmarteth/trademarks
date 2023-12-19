@@ -3,6 +3,11 @@
   "@id" : "https://diazmarteth.github.io/trademarks/manifests/manifestcopy.json",
   "@type" : "sc:Manifest",
   "label" : "Trademarks in St Anthony Basilica in Padua",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/147533823/bf1b9f760ab745622c3a43e13a7a743a/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "The Manifest contains the survey of trademarks in the St Anthony Baisilica in Padua and the discovery of the Gei's family trademark",
@@ -42,6 +47,11 @@
         },
         "on" : "http://dc80c656-261a-4217-a4f5-5287188cd6e5"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://diazmarteth.github.io/trademarks/annotations/0cad26ae95d8bc6cd87e47321000f8e7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://a79035a3-f592-4b55-910a-3a01ea31e1fb",
@@ -68,6 +78,11 @@
         },
         "on" : "http://a79035a3-f592-4b55-910a-3a01ea31e1fb"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://diazmarteth.github.io/trademarks/annotations/91a43ca62ba1edb72faa998895964526.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://88c734b0-352e-4125-af45-495a7ab32235",
@@ -93,6 +108,11 @@
           "width" : 1717
         },
         "on" : "http://88c734b0-352e-4125-af45-495a7ab32235"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://diazmarteth.github.io/trademarks/annotations/21978e2804c353fded177722ea163a2f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
