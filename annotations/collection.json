@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://diazmarteth.github.io/trademarks/annotations/0cad26ae95d8bc6cd87e47321000f8e7.json" ],
+  "otherContent" : [ "https://diazmarteth.github.io/trademarks/annotations/0cad26ae95d8bc6cd87e47321000f8e7.json", "https://diazmarteth.github.io/trademarks/annotations/91a43ca62ba1edb72faa998895964526.json" ],
   "@id" : "https://diazmarteth.github.io/trademarks/annotations/collection.json",
   "label" : "All annotations loaded in diazmarteth/trademarks project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
